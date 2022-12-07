@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/nippysky" target="blank"><img src="https://img.shields.io/twitter/follow/nippysky?logo=twitter&style=for-the-badge" alt="nippysky" /></a> </p>
 
-- 🔭 I’m currently working on [Subshare Mobile App Design and Development](https://usesubshare.com)
+- 🔭 I’m currently working on [Developing more websites and apps](https://nippysky.com)
 
 - 🌱 I’m currently learning **Python**
 

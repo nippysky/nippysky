@@ -1,24 +1,22 @@
 [![MasterHead](https://pbs.twimg.com/profile_banners/350183047/1669888500/1500x500)](https://nippysky.com)
 <h1 align="center">Hi 👋, I'm Chukwudubem Chijioke Osegbe (NIPPY The Creator)</h1>
-<h3 align="center">UI Designer, Mobile & Web Developer</h3>
+<h3 align="center">Javascript / Typescript Developer - NextJs, ReactJs, React Native</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nippysky&label=Profile%20views&color=0e75b6&style=flat" alt="nippysky" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nippysky" target="blank"><img src="https://img.shields.io/twitter/follow/nippysky?logo=twitter&style=for-the-badge" alt="nippysky" /></a> </p>
 
-- 🔭 I’m currently working on [Developing more websites and apps](https://nippysky.com)
-
-- 🌱 I’m currently learning **Python**
+- 🔭 I’m currently working on [Developing more websites and mobiile apps](https://nippysky.com)
 
 - 👨‍💻 All of my projects are available at [https://nippysky.com](https://nippysky.com)
 
-- 💬 Ask me about **React, React Native, Flutter, NextJs, JavaScript, HTML, CSS, TailwindCss**
+- 💬 Ask me about **React, React Native, Flutter, NextJs, JavaScript, Typescript HTML, CSS**
 
 - 📫 How to reach me **nsinfo247@gmail.com**
 
 - 📄 Know about my experiences [https://nippysky.com](https://nippysky.com)
 
-- ⚡ Fun fact **I love to learn new things daily.**
+- ⚡ Fun fact **I love to learn new things. I love expereinces and knowledge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

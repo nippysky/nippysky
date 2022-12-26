@@ -10,13 +10,15 @@
 
 - 👨‍💻 Here you find all my code repos. Live Preview of the projects are available at [https://nippysky.com](https://nippysky.com)
 
-- 💬 Ask me about **React, React Native, Flutter, NextJs, JavaScript, Typescript HTML, CSS**
+- 🖼️ I am also a User Interface Designer with 4 years expereince in graphics design field .
+
+- 💬 Ask me about: **React, React Native, Flutter, NextJs, JavaScript, Typescript HTML, CSS, Figma,**
 
 - 📫 How to reach me **nsinfo247@gmail.com**
 
 - 📄 Know about my experiences [https://nippysky.com](https://nippysky.com)
 
-- ⚡ Fun fact **I love to learn new things. I love expereinces and knowledge**
+- ⚡ Fun fact: **I love to learn new things. I love expereinces and knowledge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

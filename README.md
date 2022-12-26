@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Developing more websites and mobiile apps](https://nippysky.com)
 
-- 👨‍💻 All of my projects are available at [https://nippysky.com](https://nippysky.com)
+- 👨‍💻 Here you find all my code repos. Live Preview of the projects are available at [https://nippysky.com](https://nippysky.com)
 
 - 💬 Ask me about **React, React Native, Flutter, NextJs, JavaScript, Typescript HTML, CSS**
 

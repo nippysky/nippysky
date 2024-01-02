@@ -1,4 +1,3 @@
-[![MasterHead](https://pbs.twimg.com/profile_banners/350183047/1669888500/1500x500)](https://nippysky.com)
 <h1 align="center">Hi 👋, I'm Chukwudubem Chijioke Osegbe (NIPPY The Creator)</h1>
 <h3 align="center">Javascript / Typescript Developer - NextJs, ReactJs, React Native</h3>
 

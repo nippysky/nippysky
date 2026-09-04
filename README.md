@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chukwudubem Chijioke Osegbe</h1>
+<h1 align="center">Hi 👋, I'm Chukwudubem Osegbe</h1>
 <h3 align="center">Software Engineer • AI & Automation MSc Student • Creative Technologist</h3>
 
 <p align="center">
@@ -17,7 +17,3 @@
 ### Tech
 
 **JavaScript • TypeScript • React • React Native • Next.js • Node.js • Express • PostgreSQL • MongoDB • Git • Tailwind CSS • Figma**
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nippysky&show_icons=true&locale=en&layout=compact" alt="nippysky" />
-</p>
